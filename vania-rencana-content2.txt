@@ -1,6 +1,9 @@
 RENCANA CONTENT 
 
--Javascri[t
+-Javascript
+*ES6
+*Fremework Javascript
+-Struktur data dasar
 -PHP Fremeworks
 -Interview
 -Vlogs
