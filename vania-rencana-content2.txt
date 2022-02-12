@@ -1,6 +1,11 @@
 RENCANA CONTENT 
 
--Javascri[t
+-Javascript
+ *ES6
+ *Fremework Javascript
+  ^Angular
+  ^React
 -PHP Fremeworks
+ ^Laravel
 -Interview
 -Vlogs
