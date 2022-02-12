@@ -1,6 +1,0 @@
-RENCANA KONTEN
-
--Javascript
--PHP Fremeworks
--Interview
--Vlogs
