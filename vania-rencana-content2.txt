@@ -5,6 +5,7 @@ RENCANA CONTENT
  *Fremework Javascript
   ^Angular
   ^React
+  ^vue
 -PHP Fremeworks
  ^Laravel
 -Interview
